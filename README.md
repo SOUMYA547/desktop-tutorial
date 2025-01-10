@@ -39,33 +39,12 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
-
+- 🔧 &nbsp; AWS | Docker🐳 | Firebase | Flask
 <hr>
-
-
-
 <br/><br/>
-
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true)](https://github.com/shivam0110)
-
 <br/>
-
 <br/>
-
-
-
 <br><br>
-
-
-
-<hr>
-
-
-
-
-
-![Visitor count]<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 
 
